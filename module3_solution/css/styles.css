@@ -56,8 +56,14 @@ p{
 h2{
 	text-align: center;
 }
+#main-content a{
+	padding-left: 5px;
+	color: #edf5e1;
+	font-weight: 600;
+	font-size: 1.6em;
+}
 @media (max-width: 767px) {
-	#main-content{
+	#chicken, #sushi, #beef{
 		margin: 15px;
 	}
 }	
